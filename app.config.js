@@ -23,7 +23,7 @@ export default {
   },
   extra: {
     env: process.env.ENV,
-    apolloUri: process.env.APOLLO_URI || 'http://localhost:5000',
+    apolloUri: 'https://rate-repository-backend.herokuapp.com',
   },
   android: {
     package: 'com.example.name.region.projectname',
