@@ -4,7 +4,7 @@ React Native, Expo, GraphQL client
 
 This app use GraphQL server from https://github.com/fullstack-hy2020/rate-repository-api.
 
-### `npm install
+### `npm install`
 
 install node modules
 
