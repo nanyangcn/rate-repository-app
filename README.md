@@ -7,9 +7,9 @@ Because the server is deployed at Heroku with free version, the data from the se
 
 You can use
 
-username: kalle
+username: `kalle`
 
-password: password
+password: `password`
 
 or sign up a new user
 
