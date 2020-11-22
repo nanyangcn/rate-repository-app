@@ -7,11 +7,11 @@ Because the server is deployed at Heroku with free version, the data from the se
 
 This app use GraphQL server from https://github.com/fullstack-hy2020/rate-repository-api.
 
-### `npm install`
+### `yarn install`
 
 install node modules
 
-### `npm start`
+### `yarn start`
 
 start app
 
