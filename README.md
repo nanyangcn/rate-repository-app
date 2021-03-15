@@ -1,6 +1,7 @@
 # rate-repository-app
 
-React Native, Expo, GraphQL client
+Key word: React Native, Expo, GraphQL client
+
 
 This app is demostrated following.
 
