@@ -3,7 +3,7 @@
 React Native, Expo, GraphQL client
 
 This app is demostrated following.
-![](demo.gif = 400)
+<img src="demo.gif" width="480">
 
 Because the server is deployed at Heroku with free version, the data from the server will be showed in the app after a while or when the app is opened twice.
 
